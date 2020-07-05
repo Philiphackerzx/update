@@ -1,2 +1,5 @@
 pkg install wget -y
+cd /sdcard/download/
+mkdir dark
+cd dark
 wget -i download.txt

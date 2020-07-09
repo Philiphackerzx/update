@@ -1,3 +1,3 @@
-phi: 2
+phi: 1
 tor: 1
 cru: 1

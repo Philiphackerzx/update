@@ -3,4 +3,4 @@ tor: 1
 cru: 1
 cov: 1
 you: 1
-ssi: 2
+ssi: 1

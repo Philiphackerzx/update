@@ -4,3 +4,4 @@ cru: 1
 cov: 1
 you: 1
 ssi: 3
+her: 1

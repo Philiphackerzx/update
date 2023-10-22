@@ -1,7 +1,2 @@
-phi: 1
-tor: 1
-cru: 1
-cov: 1
-you: 1
-ssi: 3
-her: 1
+phishinator:2.0
+testinator:1.3
